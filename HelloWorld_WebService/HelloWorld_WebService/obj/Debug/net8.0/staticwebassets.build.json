@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "gv11lHDunQGvCX1C58i680+8zh7JKKeR4gWRs0AtD5s=",
+  "Source": "HelloWorld_WebService",
+  "BasePath": "_content/HelloWorld_WebService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
